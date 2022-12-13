@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/volumeskies/Pizza-Delivery#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mysql": "^2.18.1",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
